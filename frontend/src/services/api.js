@@ -1,5 +1,5 @@
 export const sendMessage = async (message) => {
-  const response = await fetch("http://localhost:5000/api/chat", {
+  const response = await fetch("https://ai-backend-llt7.onrender.com", {
     method: "POST",
     headers: {
       "Content-Type": "application/json"
