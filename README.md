@@ -36,7 +36,7 @@ A full-stack AI chatbot application built using React and Node.js, integrated wi
 
 ### AI Integration
 
-* Hugging Face Inference API
+* Moonshot AI API
 
 ### DevOps & Deployment
 
